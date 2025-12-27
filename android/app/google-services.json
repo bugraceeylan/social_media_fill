@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448194334579",
+    "project_id": "fill-social-media-app",
+    "storage_bucket": "fill-social-media-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448194334579:android:84a680c45c5b1582d33f06",
+        "android_client_info": {
+          "package_name": "com.example.fill_store_bb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFMckURxfnBTUk8yiofmO9hVzivmiiCss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
